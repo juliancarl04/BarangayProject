@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "backup_2026_05_15_134829_manual.sql",
+        "trigger": "manual",
+        "size_bytes": 8832,
+        "created_at": "2026-05-15 13:48:29"
+    },
+    {
+        "filename": "backup_2026_05_14.sql",
+        "trigger": "logout",
+        "size_bytes": 8597,
+        "created_at": "2026-05-14 06:29:32"
+    },
+    {
+        "filename": "backup_2026_05_14.sql",
+        "trigger": "logout",
+        "size_bytes": 8597,
+        "created_at": "2026-05-14 06:29:26"
+    }
+]
